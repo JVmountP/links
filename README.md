@@ -11,3 +11,5 @@ Number Row characters
 # *, asterisk sign
 # (), parenthesis
 # Links [ Learn to code] (https://www.w3schools.com/), [LinkedIn learning] (https://linkedin.com/learning), [ArcGIS tutorials] (https://www.arcgis.com)
+# Experiments
+# :smirk: , :broken_heart:, :innocent:, 
