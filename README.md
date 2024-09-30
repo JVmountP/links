@@ -20,7 +20,7 @@ Number Row characters
 # ctrl-z (undo)
 ## shortcuts I would like to start using
 # ctrl-y (redo)
-# alt-f4 (close active window)
+# Alt-f4 (close active window)
 # shift + delete (delete selected item permanently)
 # Alt + tab (swith betweek open tab)
 # ctrl + shift + esc (open task manager)
