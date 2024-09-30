@@ -14,3 +14,13 @@ Number Row characters
 # Experiments
 # :smirk: , :broken_heart:, :innocent:, :zap:, :pig:, :bear:, :ok: , :taxi: , **This is a bold text**
 # _this is an italicized text_ , ~~this text was deleted~~
+## Keyboard shortcuts
+# ctrl-c (copy
+# ctrl-p (paste)
+# ctrl-z (undo)
+# ctrl-y (redo)
+# alt-f4 (close active window)
+# shift + delete (delete selected item permanently)
+# Alt + tab (swith betweek open tab)
+# ctrl + shift + esc (open task manager)
+# ctrl + shift + arrow keys (select multiple items)
