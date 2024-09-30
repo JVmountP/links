@@ -18,6 +18,7 @@ Number Row characters
 # ctrl-c (copy
 # ctrl-p (paste)
 # ctrl-z (undo)
+## shortcuts I would like to start using
 # ctrl-y (redo)
 # alt-f4 (close active window)
 # shift + delete (delete selected item permanently)
