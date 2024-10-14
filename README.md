@@ -25,3 +25,4 @@ Number Row characters
 # Alt + tab (swith betweek open tab)
 # ctrl + shift + esc (open task manager)
 # ctrl + shift + arrow keys (select multiple items)
+# Link [CLI commands](docs/cli.md)
