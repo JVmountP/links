@@ -1,10 +1,10 @@
 [
-  "name:LeBron James,",
-  "Sport:Basketball,Team:Lakers,City:Los Angeles,position:Forward,Age:38",
-  "name:Lionel Messi,",
-  "Sport:Soccer,Team:Inter Mimai,City:Miami,position:Forward,Age:36",
-  "name:Serena Williams,",//string
-  "sport:Tennis,Team:N/A,City:N/A,position:Player,Age:41",
-  "name:Tom Brady,",
-  "sport:Football,Team:Buccaneers,City:Tampa Bay,Position:Quaterback,Age:45"
+  "name:LeBron James,",// a string
+  "Sport:Basketball,Team:Lakers,City:Los Angeles,position:Forward,Age:38",// a number
+  "name:Lionel Messi,",// a string
+  "Sport:Soccer,Team:Inter Mimai,City:Miami,position:Forward,Age:36",// a number
+  "name:Serena Williams,",// a string
+  "sport:Tennis,Team:N/A,City:N/A,position:Player,Age:41",//a number
+  "name:Tom Brady,",// a string
+  "sport:Football,Team:Buccaneers,City:Tampa Bay,Position:Quaterback,Age:45"// a number
 ]
