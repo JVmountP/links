@@ -4,12 +4,12 @@ FROM assignments
 
 SELECT title, course_id, due_date 
 FROM assignments
-WHERE status = 'In Progress';
+WHERE status = 'In Progress'
 
 
 SELECT course_id, COUNT(*) AS total_assignments
 FROM assignments
-GROUP BY course_id;
+GROUP BY course_id
 
 
 SELECT c.course_name, a.title, a.status, a.due_date
